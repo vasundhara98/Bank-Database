@@ -17,6 +17,7 @@ A demo web application for bank admin builtt using spring boot and MySQL.
 4. CSS 3
 5. MySQL
 
+Java version - 1.8
 
 #Requirements:
 1. Spring boot tomcat server
